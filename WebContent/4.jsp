@@ -9,8 +9,7 @@
 </head>
 <body>
 	<fieldset>
-		<legend>4.jsp 수정</legend>
+		<legend>4.jsp 수정2</legend>
 	</fieldset>
-
 </body>
 </html>

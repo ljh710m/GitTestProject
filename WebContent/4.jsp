@@ -8,6 +8,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<fieldset>
+		<legend>4.jsp 수정</legend>
+	</fieldset>
 
 </body>
 </html>
